@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+*.log
+# Add other patterns to ignore as needed
